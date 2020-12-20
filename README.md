@@ -28,7 +28,7 @@ This might take a bit, but at the end you should have no errors and an installed
 
 ## Resources used:
 
-Mind need these for later.
+Might need these for later.
 
 - https://stackoverflow.com/questions/46884682/error-in-building-opencv-with-ffmpeg
 - https://stackoverflow.com/questions/46884682/error-in-building-opencv-with-ffmpeg
